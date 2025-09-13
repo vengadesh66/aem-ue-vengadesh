@@ -1,5 +1,5 @@
 {
   "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+  "editUrlPattern": "author-p13767-e29187.adobeaemcloud.com{{pathname}}?cmd=open"
 }
