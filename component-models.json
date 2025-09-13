@@ -214,5 +214,32 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "teaserVeng",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "teaserImage",
+        "label": "teaser Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "teaserTitle",
+        "label": "teaser title",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "teaserDescription",
+        "value": "",
+        "label": "teaser description",
+        "valueType": "string"
+      }
+    ]
   }
+  
+
 ]
