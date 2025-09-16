@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p13767-e29187.adobeaemcloud.com/bin/franklin.delivery/vengadesh66/aem-ue-vengadesh/main"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/vengadesh66/aem-ue-vengadesh/main"
     type: "markup"
     suffix: ".html"
